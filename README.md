@@ -5,7 +5,17 @@ This document is a referential to learn practice with bases of git and github. I
 
 ![Joseph Mallord William Dutch Boats in a Gale 1801](https://www.wga.hu/art/t/turner/1/102turne.jpg)
 
+## Improve File
+
+I want to learn python R and git because I want to improve my informatic level to study clinical research. The informatic programation is very hard but code can help us with complex calculation and produce detailed graph.  
+
+
+# my local picture
+
+![FRIEDRICH, Caspar David Evening Landscape with Two Men 1830-35](Picture/408fried.jpg)
+
+
 ## Resume
 
 I learn that github is a plateforme where we can work and store files on internet and our own computer. I can work on vs code and store files so that the professor can see my exercices thanks to cloning.The branches allow to file to be modified without touch the principal version.
-This work during two hours.
+This work during three hours.
